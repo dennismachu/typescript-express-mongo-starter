@@ -1,0 +1,35 @@
+
+npm init -y
+app.ts file that is the entry point of the server.
+
+npm i express dotenv cors helmet mongoose
+
+npm i -D typescript @types/node @types/express @types/dotenv @types/cors @types/helmet @types/mongoose
+
+generate the tsconfig.json file
+npx tsc --init
+
+
+links
+https://medium.com/swlh/typescript-with-mongoose-and-node-express-24073d51d2ee
+
+https://dev.to/roycechua/setup-a-node-express-api-with-typescript-2021-11o1
+
+https://medium.com/@sidhantpanda/a-dockerized-nodejs-express-boilerplate-with-typescript-8ef116bdeabe
+
+https://github.com/afteracademy/nodejs-backend-architecture-typescript
+
+https://github.com/sidhantpanda/docker-express-typescript-boilerplate
+
+https://www.section.io/engineering-education/how-to-use-typescript-with-nodejs/
+
+https://ultimatecourses.com/blog/setup-typescript-nodejs-express
+
+https://auth0.com/blog/node-js-and-typescript-tutorial-build-a-crud-api/
+
+https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/
+
+https://github.com/polcham/mongoose-express-ts
+https://github.com/vladotesanovic/typescript-mongoose-express
+https://github.com/tomanagle/Mongoose-TypeScript-example
+https://github.com/ibrahima92/fullstack-typescript-mern-todo
